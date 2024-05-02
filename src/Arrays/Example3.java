@@ -13,7 +13,7 @@ public class Example3
     {
         int a[] = {33,3,4,5};
 
-        Example3   ae2  =    new Example3 ( );
-        ae2.print_values ( a );                        //   Passing array to method
+        Example3   x  =    new Example3 ( );
+        x.print_values ( a );                        //   Passing array to method
     }
 }
